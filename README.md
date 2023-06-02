@@ -1,4 +1,4 @@
-# smart-aura-sync
+# Smart Aura Sync
 Python voice assistant that controls the RGB colors of ASUS motherboard compatible with Aura Sync system
 
 The "Smart Aura Sync" program is a voice assistant developed in Python that allows you to control the RGB colors of ASUS motherboard compatible with the Aura Sync system. Using the pyttsx3 library for speech synthesis and the speech_recognition library for speech recognition, the assistant is able to receive voice commands to change the colors of the motherboard's RGB lighting.
