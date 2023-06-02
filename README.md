@@ -5,4 +5,4 @@ The "Smart Aura Sync" program is a voice assistant developed in Python that allo
 
 The voice assistant recognizes color-related commands such as "red", "green", "blue", "yellow", "purple", "cyan", "orange", "pink" and "white". Upon receiving a voice command, the program uses the ASUS Aura SDK to apply the chosen colors to the compatible motherboard lighting devices.
 
-In addition, the program has a shutdown feature, which can be activated through the "computer shutdown" command. When exiting, the voice assistant uses the pyttsx3 library to play the message "Closing Smart Aura Sync. Goodbye!" before finishing the run.
+In addition, the program has a shutdown feature, which can be activated through the "computer terminate" command. When exiting, the voice assistant uses the pyttsx3 library to play the message "Closing Smart Aura Sync. Goodbye!" before finishing the run.
